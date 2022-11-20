@@ -1,7 +1,7 @@
 # Hatoki-leak
 ```sh
-git clone https://github.com/rabbitnxt/Hatoki-leak
-cd Hatoki-leak 
+git clone https://github.com/hoducminhtrickerunlock/ddos-sieu-ba
+cd  ddos-sieu-ba
 ls
 python Setup-HaTaKi.py
 python HaToKi.py
